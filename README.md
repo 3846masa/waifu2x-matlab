@@ -1,6 +1,6 @@
 # waifu2x on MATLAB
 
-Based on [waifu2x.py] ([MIT (c) marcan42][marcan42_license])
+Based on [waifu2x.py] \([MIT (c) marcan42][marcan42_license]\)
 
 ## Required
 - [JSONlab]
